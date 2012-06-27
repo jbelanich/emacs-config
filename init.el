@@ -13,3 +13,4 @@
 (setq auto-mode-alist (cons '("\\.cc.fsm$" . c++-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.m$" . octave-mode) auto-mode-alist))
 (setq auto-mode-alist (cons '("\\.h$" . c++-mode) auto-mode-alist))
+(setq auto-mode-alist (cons '("\\.h.fsm$" . c++-mode) auto-mode-alist))
