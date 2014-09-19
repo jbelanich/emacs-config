@@ -7,6 +7,7 @@
 
 (menu-bar-mode -1)
 (tool-bar-mode -1)
+(which-function-mode 1)
 
 
 ;;This sets .cc.fsm files to use c++-mode
